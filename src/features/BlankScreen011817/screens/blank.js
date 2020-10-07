@@ -22,7 +22,7 @@ export class _Blank extends React.Component {
   render = () => (
     <View style={styles.View_1}>
       <TextInput
-        placeholder="Sample text input placeholder"
+        placeholder="Test stssext input placeholder"
         editable={true}
         style={styles.TextInput_3}
         value={this.state.TextInput_3}
